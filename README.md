@@ -220,4 +220,42 @@ Excel: Source data structuring.
 
 Dashboard UI/UX design: Custom-branded color styling, high-contrast active button states, and layout architecture.
 
+## 📂 Repository Structure
+
+```text
+Tim-Hortons-business-performance-dashboard/
+│
+├── 📁 Dashboard Images/
+│   ├── Performance_Summary.png
+│   ├── Product_Category_Insights.png
+│   ├── Customer_Insights_Behavior.png
+│   └── Store_Footprint_Geo_Analytics.png
+│
+├── 📁 Dashboard/
+│   └── Tim Hortons Analytics Dashboard.pbix
+│
+├── 📁 Dataset/
+│   └── (Contains master Excel workbook, Fact & Dimension CSVs)
+│
+├── 📁 Images & Icons/
+│   └── (Contains UI badges, custom icons, and background assets)
+│
+├── 📁 Python Script/
+│   └── tim_hortons_etl.py
+│
+├── 📄 README.md
+└── 📄 requirements.txt
+
+👨‍💻 About Me
+Hi, I'm Muhammad Nofil Mustafa 👨‍💻
+
+I'm a professional Data Analyst and Software Engineer passionate about building end-to-end data pipelines, automated ETL workflows, and transforming complex data into high-impact business intelligence dashboards.
+
+LinkedIn: www.linkedin.com/in/muhammad-nofil
+
+Email: muhammadnofilmustufa36@gmail.com
+
+⭐ If you found this project helpful...
+Consider giving it a ⭐ Star on GitHub! It motivates me to build and share more Data Engineering and BI projects.
+
 
