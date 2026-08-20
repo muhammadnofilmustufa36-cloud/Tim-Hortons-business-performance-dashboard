@@ -259,7 +259,7 @@ Email: muhammadnofilmustufa36@gmail.com
 ```
 ---
 
-## ⭐ If you found this project helpful...
+⭐ **If you found this project helpful**
 Consider giving it a ⭐ Star on GitHub! It motivates me to build and share more Data Engineering and BI projects.
 ```
 
