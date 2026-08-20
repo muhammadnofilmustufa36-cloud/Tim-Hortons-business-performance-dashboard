@@ -106,7 +106,7 @@ DIVIDE() is used instead of the / operator throughout to avoid divide-by-zero er
 
 DISTINCTCOUNT is used for Total Orders (rather than a simple row count) because a single order can span multiple line items — one row per product, not per order.
 
-Dashboard Features
+## Dashboard Features
 
 1. Performance Summary (Executive Overview)
 KPI Cards: Total Revenue ($254.58K), Total Profit ($95.61K), Total Orders (17.44K), Units Sold (43.53K), and Profit Margin (37.6%).
@@ -160,7 +160,7 @@ Regional Store Share: Donut chart showing store distribution split (33.3% vs 66.
 
 Revenue Contribution by City: Detailed multi-slice donut chart mapping Toronto, Montreal, Vancouver, and Ottawa.
 
-🚀 Key Insights
+## 🚀 Key Insights
 
 Total Revenue: $254.58K | Total Profit: $95.61K | Profit Margin: 37.6%
 
@@ -174,7 +174,7 @@ Saturday is the highest-revenue day; afternoon (12 PM–3 PM) is the peak orderi
 
 Central region (Toronto/Montreal/Ottawa) contributes $201.40K vs. $53.18K from the West (Vancouver/Calgary).
 
-🛠️ Tools & Skills
+## 🛠️ Tools & Skills
 Python (Pandas): Automated data extraction, cleaning, and dimension table splitting (ETL pipeline).
 
 Power BI Desktop: Data modeling, DAX measures, interactive report design, and custom page navigation.
