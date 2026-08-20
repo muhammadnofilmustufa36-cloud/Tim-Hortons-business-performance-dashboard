@@ -4,7 +4,7 @@ An end-to-end Data Engineering and Business Intelligence project analyzing sales
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project simulates a full end-to-end Data Analyst & Data Engineering workflow: ingesting raw transactional data, cleaning and transforming it through a custom **Python (Pandas) ETL script**, modeling it into a clean star schema, and building an interactive multi-page Power BI dashboard that surfaces revenue, profitability, customer, and geographic insights for stakeholders.
 
@@ -17,7 +17,7 @@ This project simulates a full end-to-end Data Analyst & Data Engineering workflo
 
 ---
 
-## 🛠️ Data Engineering & Python Workflow
+##  Data Engineering & Python Workflow
 
 Unlike standard reporting pipelines, this project includes a robust programmatic **ETL (Extract, Transform, Load)** stage:
 1. **Extraction & Inspection:** Raw multi-column sales files were loaded into Python (`pandas`) to analyze data grain, identify missing foreign keys, and audit data types.
@@ -26,7 +26,7 @@ Unlike standard reporting pipelines, this project includes a robust programmatic
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 - **File:** `Tim_Hortons_Portfolio_Dataset.xlsx` (and processed staging CSVs)
 - **Rows:** ~17,445 transactions
@@ -47,7 +47,7 @@ Unlike standard reporting pipelines, this project includes a robust programmatic
 
 ---
 
-## 📐 Data Model & Architecture
+##  Data Model & Architecture
 
 A star schema was built in Power Query / Power BI to support efficient, scalable analysis:
 
@@ -63,7 +63,7 @@ A star schema was built in Power Query / Power BI to support efficient, scalable
 
 ---
 
-## 📊 Dashboard Preview & Detailed Sections
+##  Dashboard Preview & Detailed Sections
 
 ### 1. Performance Summary
 High-level overview tracking total revenue ($254.58K), total profit ($95.61K), total orders, units sold, and profit margin, along with revenue vs. profit trends, top-performing outlets, category revenue split, and best-selling products.
@@ -96,7 +96,7 @@ Geographic and store-level analysis comparing regional performance splits, store
 <img width="718" height="500" alt="Store Footprint   Geo Analytics" src="https://github.com/user-attachments/assets/e534ed60-7f37-4cc6-8400-6574fc064c6e" />
 
 
-## 🧮 Key DAX Measures
+##  Key DAX Measures
 
 1) AOV = DIVIDE([Total Revenue], [Total Orders], 0)
 2) Average Price = DIVIDE([Total Revenue], [Total Units Sold], 0)
@@ -195,7 +195,7 @@ Regional Store Share: Donut chart showing store distribution split (33.3% vs 66.
 
 Revenue Contribution by City: Detailed multi-slice donut chart mapping Toronto, Montreal, Vancouver, and Ottawa.
 
-## 🚀 Key Insights
+##  Key Insights
 
 Total Revenue: $254.58K | Total Profit: $95.61K | Profit Margin: 37.6%
 
@@ -209,7 +209,7 @@ Saturday is the highest-revenue day; afternoon (12 PM–3 PM) is the peak orderi
 
 Central region (Toronto/Montreal/Ottawa) contributes $201.40K vs. $53.18K from the West (Vancouver/Calgary).
 
-## 🛠️ Tools & Skills
+##  Tools & Skills
 Python (Pandas): Automated data extraction, cleaning, and dimension table splitting (ETL pipeline).
 
 Power BI Desktop: Data modeling, DAX measures, interactive report design, and custom page navigation.
@@ -248,7 +248,7 @@ Tim-Hortons-business-performance-dashboard/
 ```
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 Hi, I'm Muhammad Nofil Mustafa — a dedicated Software Engineer who loves building end-to-end data systems, automated workflows, and high-impact business intelligence dashboards.
 
@@ -259,7 +259,7 @@ Email: muhammadnofilmustafa36@gmail.com
 
 ---
 
-⭐️ **If you found this project helpful...**  
+ **If you found this project helpful...**  
 Consider giving it a ⭐️ Star on GitHub! It motivates me to build and share more Data Engineering and BI projects.
 
 
