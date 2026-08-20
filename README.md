@@ -107,6 +107,7 @@ DIVIDE() is used instead of the / operator throughout to avoid divide-by-zero er
 DISTINCTCOUNT is used for Total Orders (rather than a simple row count) because a single order can span multiple line items — one row per product, not per order.
 
 🖥️ Dashboard Page Architecture & Visuals
+
 1. Performance Summary (Executive Overview)
 KPI Cards: Total Revenue ($254.58K), Total Profit ($95.61K), Total Orders (17.44K), Units Sold (43.53K), and Profit Margin (37.6%).
 
