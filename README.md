@@ -246,18 +246,6 @@ Tim-Hortons-business-performance-dashboard/
 ├── 📄 README.md
 └── 📄 requirements.txt
 
-👨‍💻 About Me
-Hi, I'm Muhammad Nofil Mustafa 👨‍💻
-
-I'm a professional Data Analyst and Software Engineer passionate about building end-to-end data pipelines, automated ETL workflows, and transforming complex data into high-impact business intelligence dashboards.
-
-LinkedIn: www.linkedin.com/in/muhammad-nofil
-
-Email: muhammadnofilmustufa36@gmail.com
-
-⭐ If you found this project helpful...
-Consider giving it a ⭐ Star on GitHub! It motivates me to build and share more Data Engineering and BI projects.
-
 
 
 
