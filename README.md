@@ -68,7 +68,8 @@ A star schema was built in Power Query / Power BI to support efficient, scalable
 ### 1. Performance Summary
 High-level overview tracking total revenue ($254.58K), total profit ($95.61K), total orders, units sold, and profit margin, along with revenue vs. profit trends, top-performing outlets, category revenue split, and best-selling products.
 
-<img width="718" height="502" alt="Performance Summary" src="https://github.com/user-attachments/assets/b885551b-239c-4421-ae40-f4a93bcced12" />
+<img width="718" height="502" alt="Performance Summary" src="https://github.com/user-attachments/assets/2bd4afd7-a740-41fb-8a30-7ffff8226e1f" />
+
 
 
 ---
