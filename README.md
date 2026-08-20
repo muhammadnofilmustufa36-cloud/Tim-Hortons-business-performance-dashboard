@@ -50,3 +50,7 @@ Unlike standard reporting pipelines, this project includes a robust programmatic
 ## 📐 Data Model & Architecture
 
 A star schema was built in Power Query / Power BI to support efficient, scalable analysis:
+
+<img width="858" height="445" alt="Data Model" src="https://github.com/user-attachments/assets/08c2d6bc-7c7b-4b10-a376-e8381eb0b8bb" />
+
+
