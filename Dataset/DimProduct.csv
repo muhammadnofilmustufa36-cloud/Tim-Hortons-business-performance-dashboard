@@ -1,0 +1,58 @@
+﻿ProductID,Product,Category,Size
+PRD_0001,Americano,Coffee,Large
+PRD_0002,Americano,Coffee,Medium
+PRD_0003,Americano,Coffee,Small
+PRD_0004,Bagel,Bakery,Large
+PRD_0005,Bagel,Bakery,Medium
+PRD_0006,Bagel,Bakery,Small
+PRD_0007,Black Tea,Tea,Large
+PRD_0008,Black Tea,Tea,Medium
+PRD_0009,Black Tea,Tea,Small
+PRD_0010,Breakfast Wrap,Sandwich,Large
+PRD_0011,Breakfast Wrap,Sandwich,Medium
+PRD_0012,Breakfast Wrap,Sandwich,Small
+PRD_0013,Brownie,Desserts,Large
+PRD_0014,Brownie,Desserts,Medium
+PRD_0015,Brownie,Desserts,Small
+PRD_0016,Cappuccino,Coffee,Large
+PRD_0017,Cappuccino,Coffee,Medium
+PRD_0018,Cappuccino,Coffee,Small
+PRD_0019,Chai Latte,Tea,Large
+PRD_0020,Chai Latte,Tea,Medium
+PRD_0021,Chai Latte,Tea,Small
+PRD_0022,Cheesecake,Desserts,Large
+PRD_0023,Cheesecake,Desserts,Medium
+PRD_0024,Cheesecake,Desserts,Small
+PRD_0025,Chicken Sandwich,Sandwich,Large
+PRD_0026,Chicken Sandwich,Sandwich,Medium
+PRD_0027,Chicken Sandwich,Sandwich,Small
+PRD_0028,Cold Brew,Coffee,Large
+PRD_0029,Cold Brew,Coffee,Medium
+PRD_0030,Cold Brew,Coffee,Small
+PRD_0031,Cookie,Desserts,Large
+PRD_0032,Cookie,Desserts,Medium
+PRD_0033,Cookie,Desserts,Small
+PRD_0034,Croissant,Bakery,Large
+PRD_0035,Croissant,Bakery,Medium
+PRD_0036,Croissant,Bakery,Small
+PRD_0037,Donut,Bakery,Large
+PRD_0038,Donut,Bakery,Medium
+PRD_0039,Donut,Bakery,Small
+PRD_0040,Espresso,Coffee,Large
+PRD_0041,Espresso,Coffee,Medium
+PRD_0042,Espresso,Coffee,Small
+PRD_0043,Green Tea,Tea,Large
+PRD_0044,Green Tea,Tea,Medium
+PRD_0045,Green Tea,Tea,Small
+PRD_0046,Latte,Coffee,Large
+PRD_0047,Latte,Coffee,Medium
+PRD_0048,Latte,Coffee,Small
+PRD_0049,Muffin,Bakery,Large
+PRD_0050,Muffin,Bakery,Medium
+PRD_0051,Muffin,Bakery,Small
+PRD_0052,Original Blend,Coffee,Large
+PRD_0053,Original Blend,Coffee,Medium
+PRD_0054,Original Blend,Coffee,Small
+PRD_0055,Turkey Sandwich,Sandwich,Large
+PRD_0056,Turkey Sandwich,Sandwich,Medium
+PRD_0057,Turkey Sandwich,Sandwich,Small
