@@ -68,28 +68,32 @@ A star schema was built in Power Query / Power BI to support efficient, scalable
 ### 1. Performance Summary
 High-level overview tracking total revenue ($254.58K), total profit ($95.61K), total orders, units sold, and profit margin, along with revenue vs. profit trends, top-performing outlets, category revenue split, and best-selling products.
 
-![Performance Summary](Dashboard Images/Performance_Summary.png)
+<img width="718" height="502" alt="Performance Summary" src="https://github.com/user-attachments/assets/b885551b-239c-4421-ae40-f4a93bcced12" />
+
 
 ---
 
 ### 2. Product & Category Insights
 Deep dive into item-level and category performance featuring category profit splits, contribution percentages, sales-vs-profit breakdowns, and a detailed product performance matrix table.
 
-![Product & Category Insights](Dashboard Images/Product_Category_Insights.png)
+<img width="710" height="502" alt="Product   Category Insights" src="https://github.com/user-attachments/assets/485455ff-f9a1-4962-9115-870360bf09ce" />
+
 
 ---
 
 ### 3. Customer Insights & Behavior
 Comprehensive customer analysis tracking total vs. retained customers, weekly sales patterns, customer segment mix (returning vs. new), retention-versus-acquisition trends, and payment gateway profitability.
 
-![Customer Insights & Behavior](Dashboard Images/Customer_Insights_Behavior.png)
+<img width="715" height="497" alt="Customer Insights   Behaviour" src="https://github.com/user-attachments/assets/e65e65ac-bd48-4b66-a4a1-05f96be4edbd" />
+
 
 ---
 
 ### 4. Store Footprint & Geo Analytics
 Geographic and store-level analysis comparing regional performance splits, store-wise revenue and profit margins, regional store shares, and revenue contribution percentages across cities.
 
-![Store Footprint & Geo Analytics](Dashboard Images/Store_Footprint_Geo_Analytics.png)
+<img width="718" height="500" alt="Store Footprint   Geo Analytics" src="https://github.com/user-attachments/assets/e534ed60-7f37-4cc6-8400-6574fc064c6e" />
+
 
 ## 🧮 Key DAX Measures
 
