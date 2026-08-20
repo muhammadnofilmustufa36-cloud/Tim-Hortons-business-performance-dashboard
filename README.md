@@ -61,6 +61,36 @@ A star schema was built in Power Query / Power BI to support efficient, scalable
 
 *This structure enables clean, reusable relationships across all report pages and supports DAX measures like profit margin, retention %, and average order value.*
 
+---
+
+## 📊 Dashboard Preview & Detailed Sections
+
+### 1. Performance Summary
+High-level overview tracking total revenue ($254.58K), total profit ($95.61K), total orders, units sold, and profit margin, along with revenue vs. profit trends, top-performing outlets, category revenue split, and best-selling products.
+
+![Performance Summary](Dashboard Images/Performance_Summary.png)
+
+---
+
+### 2. Product & Category Insights
+Deep dive into item-level and category performance featuring category profit splits, contribution percentages, sales-vs-profit breakdowns, and a detailed product performance matrix table.
+
+![Product & Category Insights](Dashboard Images/Product_Category_Insights.png)
+
+---
+
+### 3. Customer Insights & Behavior
+Comprehensive customer analysis tracking total vs. retained customers, weekly sales patterns, customer segment mix (returning vs. new), retention-versus-acquisition trends, and payment gateway profitability.
+
+![Customer Insights & Behavior](Dashboard Images/Customer_Insights_Behavior.png)
+
+---
+
+### 4. Store Footprint & Geo Analytics
+Geographic and store-level analysis comparing regional performance splits, store-wise revenue and profit margins, regional store shares, and revenue contribution percentages across cities.
+
+![Store Footprint & Geo Analytics](Dashboard Images/Store_Footprint_Geo_Analytics.png)
+
 ## 🧮 Key DAX Measures
 
 1) AOV = DIVIDE([Total Revenue], [Total Orders], 0)
